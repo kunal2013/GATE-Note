@@ -1,0 +1,5 @@
+
+-> In a typical computer system, ROM is located on the 
+    motherboard, shown in the right of the picture. It 
+    contains the basic instructions for what needs to happen 
+    when a computer is powered on.
