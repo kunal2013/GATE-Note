@@ -1,0 +1,25 @@
+Topics Concentrated in Interview: 
+Combinational and Sequential circuits, Frequency divider 
+circuits
+
+Interview questions:
+• Logical expression to detect numbers divisible by 5 for 
+  4-bit input
+• Design a circuit that divides the incoming frequency by 6
+• Question based on the binary search algorithm
+• To design a combinational circuit for a given system 
+  description
+
+HR / Behavioural/ Managerial questions:
+• Questions based on  project I included in my CV
+• What are my interests?
+• Why did you choose ECE as your branch?
+
+#Suggestion_to_juniors:
+• Be clear with the concepts taught in digital electronics. 
+Having some idea about VLSI (especially the CMOS logic 
+circuits) and computer architecture (available on YouTube) 
+will give you an upper hand. Think loud during the interview 
+i.e., interact with the interviewers, tell them your approach
+ for the question rather than the final answer. Last but not 
+least stay calm during the interview.
