@@ -1,0 +1,9 @@
+1. Finding max-min
+2. Power of an element
+3. Binary Search
+4. Merge Sort
+5. Quick Sort
+6. Selection Sort
+7. Strassan's Matrix Multiplication
+8. Finding no. of inversion
+9. Finding max. contigious subarray sum
